@@ -386,7 +386,13 @@ nav a:hover {
 @media (max-width: 768px) {
   .projects-content {
     padding: 40px 15px;
+    
   }
+  .project-list{
+    display: grid;
+    grid-template-column: (2, 1fr);
+  }
+  
   
 }
 
