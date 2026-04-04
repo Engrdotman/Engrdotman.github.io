@@ -388,9 +388,9 @@ nav a:hover {
     padding: 40px 15px;
     
   }
-  .project-card{
+  .project-list{
     display: grid;
-    grid-template-column: repeat (2, 1fr);
+    grid-template-column: repeat (2, 2fr);
     gap: 20px;
   }
   
