@@ -390,7 +390,7 @@ nav a:hover {
   }
   .project-list{
     display: grid;
-    grid-template-column: repeat (2, 2fr);
+    grid-template-column: repeat (2, 1fr);
     gap: 20px;
   }
   
